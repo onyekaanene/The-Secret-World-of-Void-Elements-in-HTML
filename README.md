@@ -25,25 +25,7 @@ meta: Provides metadata about the document.
 
 link: Links external resources like stylesheets.
 
-Here’s a basic example of void elements in action:
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Void Elements Example</title>
-</head>
-<body>
-    <img src="image.jpg" alt="A beautiful landscape">
-    <input type="text" placeholder="Enter your name">
-    <br>
-    <hr>
-</body>
-</html>
-
-In the example above, we see several void elements performing different tasks:
+See attached, a basic example of void elements in action. In the example, we see several void elements performing different tasks:
 
 The meta tag provides essential information about the document, like character encoding and viewport settings.
 
