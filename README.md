@@ -9,31 +9,21 @@ Void elements are special HTML tags that don't need a separate closing tag. They
 
 **Void Elements vs Other Elements:**
 
-Unlike void elements, standard HTML elements require both an opening and a closing tag. Let’s compare the two types:
-
-Standard Element Example:
-
-<p>This is a paragraph of text.</p>
-
-Void Element Example:
-
-<img src="logo.png" alt="Company Logo">
-
-In the void element example, the <img> tag is self-contained, while in the standard element example, the <p> tag has both an opening and a closing tag.
+Unlike void elements, standard HTML elements require both an opening and a closing tag. Let’s compare the two types img and p: In the attached void element example, the img tag is self-contained, while in the standard element example, the p tag has both an opening and a closing tag.
 
 **Examples of Void Elements:**
 
-<img>: Inserts an image.
+img: Inserts an image.
 
-<input>: Creates input fields for forms.
+input: Creates input fields for forms.
 
-<br>: Inserts a line break.
+br: Inserts a line break.
 
-<hr>: Creates a horizontal rule.
+hr: Creates a horizontal rule.
 
-<meta>: Provides metadata about the document.
+meta: Provides metadata about the document.
 
-<link>: Links external resources like stylesheets.
+link: Links external resources like stylesheets.
 
 Here’s a basic example of void elements in action:
 
@@ -55,17 +45,17 @@ Here’s a basic example of void elements in action:
 
 In the example above, we see several void elements performing different tasks:
 
-The <meta> tag provides essential information about the document, like character encoding and viewport settings.
+The meta tag provides essential information about the document, like character encoding and viewport settings.
 
-The <link> tag connects an external stylesheet to the HTML document.
+The link tag connects an external stylesheet to the HTML document.
 
-The <img> tag displays an image without the need for a closing tag.
+The img tag displays an image without the need for a closing tag.
 
-The <input> tag creates a text field where users can enter information.
+The input tag creates a text field where users can enter information.
 
-The <br> tag adds a line break to separate content.
+The br tag adds a line break to separate content.
 
-The <hr> tag creates a horizontal rule to visually divide sections of content.
+The hr tag creates a horizontal rule to visually divide sections of content.
 
 All these elements are self-contained, making the code cleaner and more efficient.
 
